@@ -1,7 +1,7 @@
 Yao-Graph-Research
 ==================
 
-Research papers and graph-maker program for Yao graphs. The original is then jointly published as `New and Improved Spanning Ratios for Yao Graphs, Barba et.al.`
+Research papers and graph-maker program for Yao graphs. The original is then jointly published as `New and Improved Spanning Ratios for Yao Graphs, Barba et.al.` in 2014, at the Symposium of Computation Geometry.
 
 ## Credits
 Main work on Yao-5 and YaoYao-5 graphs are due to Wah Loon Keng and Dr. Ge Xia; 
